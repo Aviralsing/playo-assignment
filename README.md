@@ -1,5 +1,5 @@
 <h1>Playo-assignment App<br /></h1>
-<h3>Playo-assignmnet SwiftUI iOS app showcasing three screens for login OTP & Feed<br /></h3>
+<h3>Playo-assignmnet SwiftUI iOS App News Feed Screen<br /></h3>
 
 <h4>Built using XCode Version 13.4.1 <br /><h4/>
 
